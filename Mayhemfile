@@ -1,0 +1,6 @@
+project: rnshah9/flex
+target: flex
+tests: null
+
+cmds:
+  - cmd: /repo/src/flex @@
