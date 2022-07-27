@@ -1,0 +1,5 @@
+project: flex
+target: flex
+
+cmds:
+  - cmd: /flex @@
