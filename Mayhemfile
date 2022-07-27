@@ -2,4 +2,4 @@ project: flex
 target: flex
 
 cmds:
-  - cmd: /repo/src/flex @@
+  - cmd: /flex @@
